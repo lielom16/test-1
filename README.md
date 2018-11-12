@@ -5,11 +5,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 Dieser Fließtext kam von [Wikipedia](https://designers-inn.de/blindtexte/)
 
 Bekannte Autohersteller:
-*vw
-*Audi
-*BMW
-*Mercedes
-*.....
+* vw
+* Audi
+* BMW
+* Mercedes
+* .....
 
 **Meine Lieblingsspeißen:**
 1. Dönerpizza
