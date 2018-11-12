@@ -4,6 +4,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 Dieser Fließtext kam von [Wikipedia](https://designers-inn.de/blindtexte/)
 
+Und hier ein Bild:[Bild]()
+
 Bekannte Autohersteller:
 * vw
 * Audi
