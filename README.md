@@ -29,6 +29,7 @@ Ein Zitat von Herrn Kickmaier:
 Was passiert...
 
 Einheit | Datum | Kurzbeschreibung
+--------|-------|-----------------
 1|12.11.2018|Versionsverwaltung
 2|19.11.2018|rasperry Instalation
 3|26.11.2018|
